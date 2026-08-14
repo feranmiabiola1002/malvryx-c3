@@ -1,0 +1,6 @@
+{
+    "name": "malvryx-c3",
+    "version": "1.0.0",
+    "description": "Malvryx C2 Server",
+    "main": "api/index.js"
+}
